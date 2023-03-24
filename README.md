@@ -9,4 +9,4 @@ varie squadre.
 Possono essere registrate tutte le squadre del mondo con annesse competizioni nazionali e
 internazionali.
 
-> Sviluppato con PostgreSQL, in collaborazione con @auli16.
+> Sviluppato con PostgreSQL, in collaborazione con [@auli16](https://github.com/auli16).
